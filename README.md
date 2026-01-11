@@ -1,2 +1,3 @@
-# prueba-github-1
-Repositorio de prueba para entender Git y GitHub
+# Prueba GitHub
+
+Este repositorio es una prueba para entender cómo funciona GitHub
